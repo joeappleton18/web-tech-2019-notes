@@ -104,6 +104,31 @@ module.exports = {
                     '/week_8/practical.md'
                 ]
 
+            },
+
+            {
+                title: 'Week 9 - Accessing Form Elements and Validation',
+                children:  [
+                    '/week_9/',
+                    '/week_9/notes.md',
+                    '/week_9/notes_practical.md',
+                    '/week_9/practical.md'
+                ]
+
+            },
+
+            {
+                title: 'Week 10 - A modern workflow',
+                children:  [
+                    '/week_10/',
+                    '/week_10/notes_practical.md',
+                    '/week_10/practical.md'
+                ]
+
+            },
+
+            {
+                title: 'Week 11 - Assessment Support'
             }
 
         ]

@@ -12,7 +12,7 @@
 	- index.html
 2) Within `main.js` create a function called `main`, for now it will just have one line of code in it `alert('working')`
 
-3) Within `index.html`s body tag, add a inline load even that calls the function `main`.   `<body onload="main">`
+3) Within `index.html`s body tag, add a inline load even that calls the function `main`.   `<body onload="main()">`
 
 
 ### Main Task 
