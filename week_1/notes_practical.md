@@ -14,8 +14,7 @@
 
 ## Tools Used To Create HTML Pages
 
->> [Cloud 9](https://c9.io/joeppleton18) for university 
->> [Visual Studio Code](https://code.visualstudio.com/)  for at home
+>> [Visual Studio Code](https://code.visualstudio.com/)  is an excellent tool, and we now have it on all the computers
 
 ## HTML Elements 
 
@@ -85,7 +84,7 @@ Let's breakdown the above example in some more detail:
 
 ## HTML Comments 
 
-HTML comments allow you to embed statements into an html which won't be shown to the user
+HTML comments allow you to embed statements into an html page which won't be shown to the user
 
 
 ```html
@@ -96,6 +95,8 @@ HTML comments allow you to embed statements into an html which won't be shown to
 
 
 # Introduction to Git
+
+Familiar with git, however, it never hurts after a break to have a quick refresh. 	
 
 ## Making commits 
 **Commits are in effect snaps shots of your work!**
@@ -114,7 +115,7 @@ HTML comments allow you to embed statements into an html which won't be shown to
 - There are many different ways to roll back work when you're using git 
 - We're going to focus on just one, resetting the head
 
-####`git reset --hard`
+#### `git reset --hard`
 
 - `git reset --hard` will reset all the file in the working directory back to how they were in the last commit 
 
@@ -138,7 +139,7 @@ HTML comments allow you to embed statements into an html which won't be shown to
 
 - If you wan't a carbon copy of a repository by running, `git clone <address>
 ` 
-- If you run `git clone https://github.com/joeappleton18/swd500.git` you'll get a full carbon copy of the entire repository containing the course material on your local computer 
+- If you run `git clone https://github.com/joeappleton18/web-tech-2019-notes.git` you'll get a full carbon copy of the entire repository containing the course material on your local computer 
 
 ## Setting up a new repository 
 

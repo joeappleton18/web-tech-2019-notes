@@ -17,7 +17,7 @@
 | Individual/Group: | Individual |
 | Assessment Weighting: | 50%  |
 | Issue Date: |TBC|
-| Hand In Deadline: | Friday 10 May Before 16:00  |
+| Hand In Deadline: | Friday 08th May Before 16:00  |
 | Planned Feedback Date: | Within 4 weeks |
 | Mode of Submission: |Online|
 | Number of copies to be submitted: | One  |

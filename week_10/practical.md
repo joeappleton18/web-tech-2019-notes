@@ -42,7 +42,7 @@ import '../index.html';
 
 ### Running our program 
 
-Perhaps you remember that we don't want our JavaScript to run before the pages loads. As such, we need to have a main function that boostraps our program when the webpage has loaded. Below, we set up the run function to be invoked when the webpage has loaded. Insert the below code into you index.js file and check that `running` is being logged to the console. 
+Perhaps you remember that we don't want our JavaScript to run before the pages loads. As such, we need to have a main function that boostraps our program when the webpage has loaded. Below, we set up the run function to be invoked when the webpage has loaded. Insert the below code into you `main.js` file and check that `running` is being logged to the console. 
 
 
  ``` 
